@@ -92,6 +92,7 @@ Copy
 Edit
 jupyter notebook "K-Means Clustering.ipynb"
 Make sure student_clustering.csv is in the same directory.
+This is youtube guided study please refer to the link for more information - https://www.youtube.com/watch?v=UPvv9SprgVo
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 🧑‍💼 About Me -
