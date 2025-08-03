@@ -99,8 +99,5 @@ This is youtube guided study please refer to the link for more information - htt
 Hi, I’m Nikita Albela, passionate about applying machine learning to uncover hidden patterns in data.
 🔗 Connect with me on LinkedIn - www.linkedin.com/in/nikita-albela-4194b1164
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🙌 Contributions
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
 📬 Feedback
 If you find this useful or have suggestions, do star the repo or drop a comment!
