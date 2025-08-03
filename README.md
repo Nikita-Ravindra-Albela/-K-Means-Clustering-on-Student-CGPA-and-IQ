@@ -94,7 +94,7 @@ jupyter notebook "K-Means Clustering.ipynb"
 Make sure student_clustering.csv is in the same directory.
 
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-🧑‍💼 About Me
+🧑‍💼 About Me -
 Hi, I’m Nikita Albela, passionate about data analytics and machine learning.
 Let’s connect on LinkedIn to explore more insights and projects! - www.linkedin.com/in/nikita-albela-4194b1164
 ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
